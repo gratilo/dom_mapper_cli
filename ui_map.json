@@ -1,0 +1,5825 @@
+{
+  "url": "https://reg.russiarunning.com",
+  "timestamp": "2026-01-08T14:43:03.386394",
+  "total_elements": 99,
+  "categories": 3,
+  "by_category": {
+    "navigation": [
+      {
+        "index": 42,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "logo__link",
+          "logo__link_circle"
+        ],
+        "class_str": "logo__link logo__link_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 40,
+          "y": 0,
+          "width": 104,
+          "height": 104,
+          "top": 0,
+          "right": 144,
+          "bottom": 104,
+          "left": 40
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-d55a7043": "",
+          "href": "/",
+          "class": "logo__link logo__link_circle"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 44,
+        "tag": "a",
+        "text": "События",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/events/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 172,
+          "y": 16,
+          "width": 75,
+          "height": 32,
+          "top": 16,
+          "right": 247,
+          "bottom": 48,
+          "left": 172
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "/events/"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 45,
+        "tag": "a",
+        "text": "Результаты",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 267,
+          "y": 16,
+          "width": 96,
+          "height": 32,
+          "top": 16,
+          "right": 363,
+          "bottom": 48,
+          "left": 267
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "https://results.russiarunning.com"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 46,
+        "tag": "a",
+        "text": "Чемпионаты",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://champs.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 383,
+          "y": 16,
+          "width": 109,
+          "height": 32,
+          "top": 16,
+          "right": 492,
+          "bottom": 48,
+          "left": 383
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "https://champs.russiarunning.com"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 47,
+        "tag": "a",
+        "text": "Фото",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://mysport.photo/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[4]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 512,
+          "y": 16,
+          "width": 43,
+          "height": 32,
+          "top": 16,
+          "right": 555,
+          "bottom": 48,
+          "left": 512
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "https://mysport.photo"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 48,
+        "tag": "a",
+        "text": "Клубы",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://clubs.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[5]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 575,
+          "y": 16,
+          "width": 55,
+          "height": 32,
+          "top": 16,
+          "right": 630,
+          "bottom": 48,
+          "left": 575
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "https://clubs.russiarunning.com"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 49,
+        "tag": "a",
+        "text": "Экспо",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://rrexpo.scount.pro/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[6]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 650,
+          "y": 16,
+          "width": 51,
+          "height": 32,
+          "top": 16,
+          "right": 701,
+          "bottom": 48,
+          "left": 650
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "target": "_blank",
+          "href": "https://rrexpo.scount.pro/"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 50,
+        "tag": "a",
+        "text": "Отели",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/ostrovok?erid=2W5zFGDoorY",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[7]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 721,
+          "y": 16,
+          "width": 53,
+          "height": 32,
+          "top": 16,
+          "right": 774,
+          "bottom": 48,
+          "left": 721
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "target": "_blank",
+          "href": "/ostrovok?erid=2W5zFGDoorY"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 51,
+        "tag": "a",
+        "text": "Журнал",
+        "classes": [
+          "rr-header-nav__link"
+        ],
+        "class_str": "rr-header-nav__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://life.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[8]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 794,
+          "y": 16,
+          "width": 68,
+          "height": 32,
+          "top": 16,
+          "right": 862,
+          "bottom": 48,
+          "left": 794
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-4842534f": "",
+          "class": "rr-header-nav__link",
+          "href": "https://life.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 61,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "link",
+          "link_md",
+          "link_primary",
+          "rr-header-profile__not-auth"
+        ],
+        "class_str": "link link_md link_primary rr-header-profile__not-auth",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://russiarunning.com/login",
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[2]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 1182,
+          "y": 2,
+          "width": 60,
+          "height": 60,
+          "top": 2,
+          "right": 1242,
+          "bottom": 62,
+          "left": 1182
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-84d34c7c": "",
+          "class": "link link_md link_primary rr-header-profile__not-auth",
+          "href": "https://russiarunning.com/login"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 64,
+        "tag": "a",
+        "text": "Найти результаты",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_primary",
+          "button_lg",
+          "main-intro__action-link"
+        ],
+        "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 523,
+          "y": 424,
+          "width": 217,
+          "height": 48,
+          "top": 424,
+          "right": 740,
+          "bottom": 472,
+          "left": 523
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-3511a5b0": "",
+          "class": "button button_mobile button_primary button_lg main-intro__action-link",
+          "href": "https://results.russiarunning.com",
+          "style": "--border-type: solid;"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 66,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "banner__link"
+        ],
+        "class_str": "banner__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://mkt.russiarunning.com/api/v1/6ef7dbdf-8681-4cf1-b12c-71c6100ecaf0/3bf7d06b-b937-4228-800b-a0efbe35b166_desktop.lnk",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 40,
+          "y": 764,
+          "width": 1200,
+          "height": 228.5625,
+          "top": 764,
+          "right": 1240,
+          "bottom": 992.5625,
+          "left": 40
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-7e6558b7": "",
+          "href": "https://mkt.russiarunning.com/api/v1/6ef7dbdf-8681-4cf1-b12c-71c6100ecaf0/3bf7d06b-b937-4228-800b-a0efbe35b166_desktop.lnk",
+          "target": "_blank",
+          "rel": "noopener",
+          "class": "banner__link"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 67,
+        "tag": "a",
+        "text": "Silk Road – Andijon 2025",
+        "classes": [
+          "link",
+          "link_lg",
+          "link_primary",
+          "leader-card__title",
+          "mb-0-25",
+          "d-block"
+        ],
+        "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/SilkRoadAndijon2025?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 63,
+          "y": 1141.5625,
+          "width": 223,
+          "height": 26,
+          "top": 1141.5625,
+          "right": 286,
+          "bottom": 1167.5625,
+          "left": 63
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-13344299": "",
+          "href": "/event/SilkRoadAndijon2025?scrollToTop=1",
+          "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 71,
+        "tag": "a",
+        "text": "XM",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 115,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 155,
+          "bottom": 1377.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 73,
+        "tag": "a",
+        "text": "Xasan Mirsoatov",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 167,
+          "y": 1339.5625,
+          "width": 120,
+          "height": 18,
+          "top": 1339.5625,
+          "right": 287,
+          "bottom": 1357.5625,
+          "left": 167
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 74,
+        "tag": "a",
+        "text": "RX",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 115,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 155,
+          "bottom": 1450.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 76,
+        "tag": "a",
+        "text": "Ruslan Xajiev",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 167,
+          "y": 1412.5625,
+          "width": 98,
+          "height": 18,
+          "top": 1412.5625,
+          "right": 265,
+          "bottom": 1430.5625,
+          "left": 167
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 77,
+        "tag": "a",
+        "text": "OT",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 115,
+          "y": 1479.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1479.5625,
+          "right": 155,
+          "bottom": 1519.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 79,
+        "tag": "a",
+        "text": "Otabek Toshquvvatov",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 115,
+          "y": 1533.5625,
+          "width": 160,
+          "height": 18,
+          "top": 1533.5625,
+          "right": 275,
+          "bottom": 1551.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 80,
+        "tag": "a",
+        "text": "XVI ГАТЧИНСКИЙ ПОЛУМАРАФОН",
+        "classes": [
+          "link",
+          "link_lg",
+          "link_primary",
+          "leader-card__title",
+          "mb-0-25",
+          "d-block"
+        ],
+        "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/GatchinaHalfMarathon2025?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 469.65625,
+          "y": 1141.5625,
+          "width": 334,
+          "height": 26,
+          "top": 1141.5625,
+          "right": 803.65625,
+          "bottom": 1167.5625,
+          "left": 469.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-13344299": "",
+          "href": "/event/GatchinaHalfMarathon2025?scrollToTop=1",
+          "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 84,
+        "tag": "a",
+        "text": "ВГ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 521.65625,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 561.65625,
+          "bottom": 1377.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 86,
+        "tag": "a",
+        "text": "Виктор Гуржий",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 573.65625,
+          "y": 1339.5625,
+          "width": 116,
+          "height": 18,
+          "top": 1339.5625,
+          "right": 689.65625,
+          "bottom": 1357.5625,
+          "left": 573.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 87,
+        "tag": "a",
+        "text": "ЕЛ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 521.65625,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 561.65625,
+          "bottom": 1450.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 89,
+        "tag": "a",
+        "text": "Егор Лимонов",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 573.65625,
+          "y": 1412.5625,
+          "width": 108,
+          "height": 18,
+          "top": 1412.5625,
+          "right": 681.65625,
+          "bottom": 1430.5625,
+          "left": 573.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 90,
+        "tag": "a",
+        "text": "АЯ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 521.65625,
+          "y": 1483.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1483.5625,
+          "right": 561.65625,
+          "bottom": 1523.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 92,
+        "tag": "a",
+        "text": "Андрей Янович",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 573.65625,
+          "y": 1485.5625,
+          "width": 121,
+          "height": 18,
+          "top": 1485.5625,
+          "right": 694.65625,
+          "bottom": 1503.5625,
+          "left": 573.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 93,
+        "tag": "a",
+        "text": "Корпоративный забег \"Энергия жизни\" Самара 2025",
+        "classes": [
+          "link",
+          "link_lg",
+          "link_primary",
+          "leader-card__title",
+          "mb-0-25",
+          "d-block"
+        ],
+        "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/KorporativnyyzabegEnergiyazhizniSamara2025?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 876.3125,
+          "y": 1141.5625,
+          "width": 344.65625,
+          "height": 52,
+          "top": 1141.5625,
+          "right": 1220.96875,
+          "bottom": 1193.5625,
+          "left": 876.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-13344299": "",
+          "href": "/event/KorporativnyyzabegEnergiyazhizniSamara2025?scrollToTop=1",
+          "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 97,
+        "tag": "a",
+        "text": "ДМ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 928.3125,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 968.3125,
+          "bottom": 1377.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 99,
+        "tag": "a",
+        "text": "Денис Маматов",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 980.3125,
+          "y": 1339.5625,
+          "width": 117,
+          "height": 18,
+          "top": 1339.5625,
+          "right": 1097.3125,
+          "bottom": 1357.5625,
+          "left": 980.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 100,
+        "tag": "a",
+        "text": "МВ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/7734bdba-2a80-4153-858a-16bd274b202c",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 928.3125,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 968.3125,
+          "bottom": 1450.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/7734bdba-2a80-4153-858a-16bd274b202c"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 102,
+        "tag": "a",
+        "text": "Максим Воронцов",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/7734bdba-2a80-4153-858a-16bd274b202c",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 980.3125,
+          "y": 1412.5625,
+          "width": 139,
+          "height": 18,
+          "top": 1412.5625,
+          "right": 1119.3125,
+          "bottom": 1430.5625,
+          "left": 980.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/7734bdba-2a80-4153-858a-16bd274b202c",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 103,
+        "tag": "a",
+        "text": "МГ",
+        "classes": [],
+        "class_str": "",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/2336dac4-552d-4930-aed1-e42d4f28ca84",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 928.3125,
+          "y": 1483.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1483.5625,
+          "right": 968.3125,
+          "bottom": 1523.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/2336dac4-552d-4930-aed1-e42d4f28ca84"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 105,
+        "tag": "a",
+        "text": "Михаил Гулик",
+        "classes": [
+          "text-small-semibold",
+          "mb-0-25"
+        ],
+        "class_str": "text-small-semibold mb-0-25",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/2336dac4-552d-4930-aed1-e42d4f28ca84",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 980.3125,
+          "y": 1485.5625,
+          "width": 105,
+          "height": 18,
+          "top": 1485.5625,
+          "right": 1085.3125,
+          "bottom": 1503.5625,
+          "left": 980.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "target": "_blank",
+          "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/2336dac4-552d-4930-aed1-e42d4f28ca84",
+          "class": "text-small-semibold mb-0-25"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 109,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "event-card__link"
+        ],
+        "class_str": "event-card__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/karelia01?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 40,
+          "y": 1734.5625,
+          "width": 285,
+          "height": 331.59375,
+          "top": 1734.5625,
+          "right": 325,
+          "bottom": 2066.15625,
+          "left": 40
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-bce702d1": "",
+          "href": "/event/karelia01?scrollToTop=1",
+          "class": "event-card__link"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 110,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "event-card__link"
+        ],
+        "class_str": "event-card__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/Tyumenskiyvirazh?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 345,
+          "y": 1734.5625,
+          "width": 285,
+          "height": 331.59375,
+          "top": 1734.5625,
+          "right": 630,
+          "bottom": 2066.15625,
+          "left": 345
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-bce702d1": "",
+          "href": "/event/Tyumenskiyvirazh?scrollToTop=1",
+          "class": "event-card__link"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 111,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "event-card__link"
+        ],
+        "class_str": "event-card__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/NovogodniymnogodnevnyyzabegPelmennyyKubok3etapgorodIzhevsk?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 650,
+          "y": 1734.5625,
+          "width": 285,
+          "height": 331.59375,
+          "top": 1734.5625,
+          "right": 935,
+          "bottom": 2066.15625,
+          "left": 650
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-bce702d1": "",
+          "href": "/event/NovogodniymnogodnevnyyzabegPelmennyyKubok3etapgorodIzhevsk?scrollToTop=1",
+          "class": "event-card__link"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 112,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "event-card__link"
+        ],
+        "class_str": "event-card__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/event/KONTROLNYYBEG10012026?scrollToTop=1",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 955,
+          "y": 1734.5625,
+          "width": 285,
+          "height": 331.59375,
+          "top": 1734.5625,
+          "right": 1240,
+          "bottom": 2066.15625,
+          "left": 955
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-bce702d1": "",
+          "href": "/event/KONTROLNYYBEG10012026?scrollToTop=1",
+          "class": "event-card__link"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 115,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "our-events__link"
+        ],
+        "class_str": "our-events__link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://mysport.photo/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[2]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 0,
+          "y": 2362.5625,
+          "width": 1280,
+          "height": 445.328125,
+          "top": 2362.5625,
+          "right": 1280,
+          "bottom": 2807.890625,
+          "left": 0
+        },
+        "visible": true,
+        "attributes": {
+          "href": "https://mysport.photo/",
+          "target": "_blank",
+          "class": "our-events__link",
+          "data-v-4385e7a6": ""
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 123,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "link",
+          "link_md",
+          "link_primary",
+          "footer__logo",
+          "hover"
+        ],
+        "class_str": "link link_md link_primary footer__logo hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 30,
+          "y": 4229.890625,
+          "width": 80,
+          "height": 80,
+          "top": 4229.890625,
+          "right": 110,
+          "bottom": 4309.890625,
+          "left": 30
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "link link_md link_primary footer__logo hover",
+          "href": "/",
+          "style": "--offset: 130;"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 124,
+        "tag": "a",
+        "text": "Платформа",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Home/About",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4267.890625,
+          "width": 85,
+          "height": 18,
+          "top": 4267.890625,
+          "right": 325,
+          "bottom": 4285.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Home/About"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 125,
+        "tag": "a",
+        "text": "Оценка событий",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Home/EventsRating",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4297.890625,
+          "width": 127,
+          "height": 18,
+          "top": 4297.890625,
+          "right": 367,
+          "bottom": 4315.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Home/EventsRating"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 126,
+        "tag": "a",
+        "text": "Журнал",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://life.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4327.890625,
+          "width": 60,
+          "height": 18,
+          "top": 4327.890625,
+          "right": 300,
+          "bottom": 4345.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://life.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 127,
+        "tag": "a",
+        "text": "Реклама",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://services.russiarunning.com/marketing-i-prodvizhenie",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[4]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4357.890625,
+          "width": 64,
+          "height": 18,
+          "top": 4357.890625,
+          "right": 304,
+          "bottom": 4375.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://services.russiarunning.com/marketing-i-prodvizhenie",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 128,
+        "tag": "a",
+        "text": "Вакансии",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Careers",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[5]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4387.890625,
+          "width": 73,
+          "height": 18,
+          "top": 4387.890625,
+          "right": 313,
+          "bottom": 4405.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Careers"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 129,
+        "tag": "a",
+        "text": "Контакты",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Contacts",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[1]/ul[1]/li[6]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 240,
+          "y": 4417.890625,
+          "width": 72,
+          "height": 18,
+          "top": 4417.890625,
+          "right": 312,
+          "bottom": 4435.890625,
+          "left": 240
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Contacts"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 130,
+        "tag": "a",
+        "text": "Создать событие",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Home/About",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 492,
+          "y": 4267.890625,
+          "width": 128,
+          "height": 18,
+          "top": 4267.890625,
+          "right": 620,
+          "bottom": 4285.890625,
+          "left": 492
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Home/About"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 131,
+        "tag": "a",
+        "text": "Возможности",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/Home/About",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 492,
+          "y": 4297.890625,
+          "width": 103,
+          "height": 18,
+          "top": 4297.890625,
+          "right": 595,
+          "bottom": 4315.890625,
+          "left": 492
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/Home/About"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 132,
+        "tag": "a",
+        "text": "Услуги",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://services.russiarunning.com/?utm_source=rr&utm_medium=referral&utm_content=menu-footer",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[2]/ul[1]/li[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 492,
+          "y": 4327.890625,
+          "width": 51,
+          "height": 18,
+          "top": 4327.890625,
+          "right": 543,
+          "bottom": 4345.890625,
+          "left": 492
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://services.russiarunning.com/?utm_source=rr&utm_medium=referral&utm_content=menu-footer",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 133,
+        "tag": "a",
+        "text": "Найти событие",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/events",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4267.890625,
+          "width": 114,
+          "height": 18,
+          "top": 4267.890625,
+          "right": 859,
+          "bottom": 4285.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/events",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 134,
+        "tag": "a",
+        "text": "Результаты",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://results.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4297.890625,
+          "width": 85,
+          "height": 18,
+          "top": 4297.890625,
+          "right": 830,
+          "bottom": 4315.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://results.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 135,
+        "tag": "a",
+        "text": "Чемпионаты",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://champs.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4327.890625,
+          "width": 96,
+          "height": 18,
+          "top": 4327.890625,
+          "right": 841,
+          "bottom": 4345.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://champs.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 136,
+        "tag": "a",
+        "text": "Фото",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://mysport.photo/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[4]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4357.890625,
+          "width": 38,
+          "height": 18,
+          "top": 4357.890625,
+          "right": 783,
+          "bottom": 4375.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://mysport.photo",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 137,
+        "tag": "a",
+        "text": "Клубы",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://clubs.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[5]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4387.890625,
+          "width": 48,
+          "height": 18,
+          "top": 4387.890625,
+          "right": 793,
+          "bottom": 4405.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://clubs.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 138,
+        "tag": "a",
+        "text": "Экспо",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://rrexpo.scount.pro/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[6]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4417.890625,
+          "width": 46,
+          "height": 18,
+          "top": 4417.890625,
+          "right": 791,
+          "bottom": 4435.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://rrexpo.scount.pro/",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 139,
+        "tag": "a",
+        "text": "Отели",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://reg.russiarunning.com/ostrovok?erid=2W5zFGDoorY",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[3]/ul[1]/li[7]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 745,
+          "y": 4447.890625,
+          "width": 47,
+          "height": 18,
+          "top": 4447.890625,
+          "right": 792,
+          "bottom": 4465.890625,
+          "left": 745
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "/ostrovok?erid=2W5zFGDoorY",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 140,
+        "tag": "a",
+        "text": "Центр поддержки",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://help.russiarunning.com/",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[4]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 984,
+          "y": 4267.890625,
+          "width": 141,
+          "height": 18,
+          "top": 4267.890625,
+          "right": 1125,
+          "bottom": 4285.890625,
+          "left": 984
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover",
+          "href": "https://help.russiarunning.com",
+          "target": "_blank"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 145,
+        "tag": "a",
+        "text": "Конфиденциальность",
+        "classes": [
+          "text-small-semibold",
+          "footer__middle-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__middle-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://russiarunning.com/Content/files/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[3]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 30,
+          "y": 4530.890625,
+          "width": 167,
+          "height": 18,
+          "top": 4530.890625,
+          "right": 197,
+          "bottom": 4548.890625,
+          "left": 30
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__middle-link hover",
+          "target": "_blank",
+          "href": "https://russiarunning.com/Content/files/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%BE%D1%82%D0%BD%D0%BE%D1%88%D0%B5%D0%BD%D0%B8%D0%B8%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.pdf"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 146,
+        "tag": "a",
+        "text": "Аккредитация в качестве ИТ-компании",
+        "classes": [
+          "text-small-semibold",
+          "footer__middle-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__middle-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://russiarunning.com/Content/files/08_%D0%90%D0%9F-%D0%B0%D0%BA%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82-%D1%8F_%D0%98%D0%A2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%E2%84%96%D0%90%D0%9E-20221205-10764551462-3_%D0%BE%D1%82_21.12.22.pdf",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 237,
+          "y": 4530.890625,
+          "width": 304,
+          "height": 18,
+          "top": 4530.890625,
+          "right": 541,
+          "bottom": 4548.890625,
+          "left": 237
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__middle-link hover",
+          "target": "_blank",
+          "href": "https://russiarunning.com/Content/files/08_%D0%90%D0%9F-%D0%B0%D0%BA%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82-%D1%8F_%D0%98%D0%A2-%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%E2%84%96%D0%90%D0%9E-20221205-10764551462-3_%D0%BE%D1%82_21.12.22.pdf"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 147,
+        "tag": "a",
+        "text": "Информация о деятельности компании в области ИТ",
+        "classes": [
+          "text-small-semibold",
+          "footer__middle-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__middle-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://russiarunning.com/Content/files/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8,%20%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81%20%D0%B2%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%98%D0%A2.pdf",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 581,
+          "y": 4530.890625,
+          "width": 406,
+          "height": 18,
+          "top": 4530.890625,
+          "right": 987,
+          "bottom": 4548.890625,
+          "left": 581
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__middle-link hover",
+          "target": "_blank",
+          "href": "https://russiarunning.com/Content/files/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BE%20%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8,%20%D0%BE%D1%81%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D0%BE%D0%B9%20%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81%20%D0%B2%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8%20%D0%98%D0%A2.pdf"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 149,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "footer__social-link"
+        ],
+        "class_str": "footer__social-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://vk.com/russiarunning",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[1]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 981,
+          "y": 4675.890625,
+          "width": 32,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 1013,
+          "bottom": 4707.890625,
+          "left": 981
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "footer__social-link",
+          "target": "_blank",
+          "href": "https://vk.com/russiarunning"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 150,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "footer__social-link"
+        ],
+        "class_str": "footer__social-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "https://t.me/russiarunninglife",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[2]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 1021,
+          "y": 4675.890625,
+          "width": 32,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 1053,
+          "bottom": 4707.890625,
+          "left": 1021
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "footer__social-link",
+          "target": "_blank",
+          "href": "https://t.me/russiarunninglife"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      },
+      {
+        "index": 151,
+        "tag": "a",
+        "text": "",
+        "classes": [
+          "footer__social-link"
+        ],
+        "class_str": "footer__social-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": "http://www.youtube.com/channel/UCjxF4IG3-uicefLABE5AV9A",
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/ul[1]/li[3]/a[1]",
+        "css": "a[href]",
+        "rect": {
+          "x": 1061,
+          "y": 4675.890625,
+          "width": 32,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 1093,
+          "bottom": 4707.890625,
+          "left": 1061
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "footer__social-link",
+          "target": "_blank",
+          "href": "http://www.youtube.com/channel/UCjxF4IG3-uicefLABE5AV9A"
+        },
+        "selector": "a[href]",
+        "category": "navigation",
+        "subcategory": "link",
+        "confidence": 0.92
+      }
+    ],
+    "containers": [
+      {
+        "index": 43,
+        "tag": "nav",
+        "text": "События\nРезультаты\nЧемпионаты\nФото\nКлубы\nЭкспо\nОтели\nЖурнал\nЕщё",
+        "classes": [
+          "rr-header-nav",
+          "rr-header__col",
+          "rr-header__col_nav"
+        ],
+        "class_str": "rr-header-nav rr-header__col rr-header__col_nav",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]",
+        "css": "nav",
+        "rect": {
+          "x": 172,
+          "y": 16,
+          "width": 783,
+          "height": 32,
+          "top": 16,
+          "right": 955,
+          "bottom": 48,
+          "left": 172
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-4842534f": "",
+          "data-v-bbd62688": "",
+          "class": "rr-header-nav rr-header__col rr-header__col_nav"
+        },
+        "selector": "nav",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 52,
+        "tag": "div",
+        "text": "Ещё",
+        "classes": [
+          "dropdown-popup__trigger"
+        ],
+        "class_str": "dropdown-popup__trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[9]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 882,
+          "y": 20,
+          "width": 56,
+          "height": 24,
+          "top": 20,
+          "right": 938,
+          "bottom": 44,
+          "left": 882
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-e6c8e5c0": "",
+          "class": "dropdown-popup__trigger",
+          "data-testid": "popup-trigger"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 55,
+        "tag": "div",
+        "text": "",
+        "classes": [
+          "dropdown-popup__trigger"
+        ],
+        "class_str": "dropdown-popup__trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 1120,
+          "y": 10,
+          "width": 44,
+          "height": 44,
+          "top": 10,
+          "right": 1164,
+          "bottom": 54,
+          "left": 1120
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-e6c8e5c0": "",
+          "class": "dropdown-popup__trigger",
+          "data-testid": "popup-trigger"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 63,
+        "tag": "a",
+        "text": "Найти событие",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_primary",
+          "button_lg",
+          "main-intro__action-link"
+        ],
+        "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+        "css": "a",
+        "rect": {
+          "x": 313,
+          "y": 424,
+          "width": 190,
+          "height": 48,
+          "top": 424,
+          "right": 503,
+          "bottom": 472,
+          "left": 313
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-3511a5b0": "",
+          "class": "button button_mobile button_primary button_lg main-intro__action-link",
+          "style": "--border-type: solid;"
+        },
+        "selector": "a",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 65,
+        "tag": "a",
+        "text": "Создать событие",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_primary",
+          "button_lg",
+          "main-intro__action-link"
+        ],
+        "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+        "css": "a",
+        "rect": {
+          "x": 760,
+          "y": 424,
+          "width": 207,
+          "height": 48,
+          "top": 424,
+          "right": 967,
+          "bottom": 472,
+          "left": 760
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-3511a5b0": "",
+          "class": "button button_mobile button_primary button_lg main-intro__action-link",
+          "style": "--border-type: solid;"
+        },
+        "selector": "a",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 68,
+        "tag": "div",
+        "text": "21 км",
+        "classes": [
+          "multiselect",
+          "multiselect_md",
+          "multiselect_option-wrap"
+        ],
+        "class_str": "multiselect multiselect_md multiselect_option-wrap",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[2]",
+        "css": "div",
+        "rect": {
+          "x": 63,
+          "y": 1237.5625,
+          "width": 344.65625,
+          "height": 40,
+          "top": 1237.5625,
+          "right": 407.65625,
+          "bottom": 1277.5625,
+          "left": 63
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "tabindex": "0",
+          "class": "multiselect multiselect_md multiselect_option-wrap",
+          "role": "combobox",
+          "aria-owns": "listbox-null"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 69,
+        "tag": "div",
+        "text": "",
+        "classes": [
+          "multiselect__icon"
+        ],
+        "class_str": "multiselect__icon",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 76,
+          "y": 1248.5625,
+          "width": 18,
+          "height": 18,
+          "top": 1248.5625,
+          "right": 94,
+          "bottom": 1266.5625,
+          "left": 76
+        },
+        "visible": true,
+        "attributes": {
+          "class": "multiselect__icon",
+          "data-testid": "icon-left"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 81,
+        "tag": "div",
+        "text": "21.1 км",
+        "classes": [
+          "multiselect",
+          "multiselect_md",
+          "multiselect_option-wrap"
+        ],
+        "class_str": "multiselect multiselect_md multiselect_option-wrap",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[2]",
+        "css": "div",
+        "rect": {
+          "x": 469.65625,
+          "y": 1237.5625,
+          "width": 344.65625,
+          "height": 40,
+          "top": 1237.5625,
+          "right": 814.3125,
+          "bottom": 1277.5625,
+          "left": 469.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "tabindex": "0",
+          "class": "multiselect multiselect_md multiselect_option-wrap",
+          "role": "combobox",
+          "aria-owns": "listbox-null"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 82,
+        "tag": "div",
+        "text": "",
+        "classes": [
+          "multiselect__icon"
+        ],
+        "class_str": "multiselect__icon",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 482.65625,
+          "y": 1248.5625,
+          "width": 18,
+          "height": 18,
+          "top": 1248.5625,
+          "right": 500.65625,
+          "bottom": 1266.5625,
+          "left": 482.65625
+        },
+        "visible": true,
+        "attributes": {
+          "class": "multiselect__icon",
+          "data-testid": "icon-left"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 94,
+        "tag": "div",
+        "text": "10 км ( только мужчины)",
+        "classes": [
+          "multiselect",
+          "multiselect_md",
+          "multiselect_option-wrap"
+        ],
+        "class_str": "multiselect multiselect_md multiselect_option-wrap",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[2]",
+        "css": "div",
+        "rect": {
+          "x": 876.3125,
+          "y": 1237.5625,
+          "width": 344.65625,
+          "height": 40,
+          "top": 1237.5625,
+          "right": 1220.96875,
+          "bottom": 1277.5625,
+          "left": 876.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-13344299": "",
+          "tabindex": "0",
+          "class": "multiselect multiselect_md multiselect_option-wrap",
+          "role": "combobox",
+          "aria-owns": "listbox-null"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 95,
+        "tag": "div",
+        "text": "",
+        "classes": [
+          "multiselect__icon"
+        ],
+        "class_str": "multiselect__icon",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 889.3125,
+          "y": 1248.5625,
+          "width": 18,
+          "height": 18,
+          "top": 1248.5625,
+          "right": 907.3125,
+          "bottom": 1266.5625,
+          "left": 889.3125
+        },
+        "visible": true,
+        "attributes": {
+          "class": "multiselect__icon",
+          "data-testid": "icon-left"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 108,
+        "tag": "a",
+        "text": "См. все",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_secondary",
+          "button_md",
+          "text-nowrap"
+        ],
+        "class_str": "button button_mobile button_secondary button_md text-nowrap",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[3]/div[1]/a[1]",
+        "css": "a",
+        "rect": {
+          "x": 1144,
+          "y": 1670.5625,
+          "width": 96,
+          "height": 40,
+          "top": 1670.5625,
+          "right": 1240,
+          "bottom": 1710.5625,
+          "left": 1144
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-e13588be": "",
+          "class": "button button_mobile button_secondary button_md text-nowrap",
+          "style": "--border-type: solid;"
+        },
+        "selector": "a",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 121,
+        "tag": "a",
+        "text": "Создать событие",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_primary",
+          "button_lg",
+          "for-organization__create"
+        ],
+        "class_str": "button button_mobile button_primary button_lg for-organization__create",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[2]/div[1]/a[1]",
+        "css": "a",
+        "rect": {
+          "x": 536.5,
+          "y": 3981.890625,
+          "width": 207,
+          "height": 48,
+          "top": 3981.890625,
+          "right": 743.5,
+          "bottom": 4029.890625,
+          "left": 536.5
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-71697397": "",
+          "class": "button button_mobile button_primary button_lg for-organization__create",
+          "style": "--border-type: solid;"
+        },
+        "selector": "a",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 122,
+        "tag": "footer",
+        "text": "О нас\nПлатформа\nОценка событий\nЖурнал\nРеклама\nВакансии\nКонтакты\nОрганизатору\nСоздать событие\nВозможности\nУслуги\nУчастник",
+        "classes": [
+          "footer"
+        ],
+        "class_str": "footer",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]",
+        "css": "footer",
+        "rect": {
+          "x": 0,
+          "y": 4189.890625,
+          "width": 1280,
+          "height": 538,
+          "top": 4189.890625,
+          "right": 1280,
+          "bottom": 4727.890625,
+          "left": 0
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-c6717424": "",
+          "class": "footer"
+        },
+        "selector": "footer",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      },
+      {
+        "index": 152,
+        "tag": "div",
+        "text": "Русский",
+        "classes": [
+          "dropdown-popup__trigger"
+        ],
+        "class_str": "dropdown-popup__trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": null,
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/div[2]/div[1]/div[1]",
+        "css": "div",
+        "rect": {
+          "x": 1133,
+          "y": 4675.890625,
+          "width": 117,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 1250,
+          "bottom": 4707.890625,
+          "left": 1133
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-e6c8e5c0": "",
+          "class": "dropdown-popup__trigger",
+          "data-testid": "popup-trigger"
+        },
+        "selector": "div",
+        "category": "containers",
+        "subcategory": "generic",
+        "confidence": 0.5
+      }
+    ],
+    "buttons": [
+      {
+        "index": 53,
+        "tag": "button",
+        "text": "Ещё",
+        "classes": [
+          "rr-header-nav__more"
+        ],
+        "class_str": "rr-header-nav__more",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[9]/div[1]/div[1]/button[1]",
+        "css": "button.rr-header-nav__more",
+        "rect": {
+          "x": 882,
+          "y": 20,
+          "width": 56,
+          "height": 24,
+          "top": 20,
+          "right": 938,
+          "bottom": 44,
+          "left": 882
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-4842534f": "",
+          "type": "button",
+          "class": "rr-header-nav__more"
+        },
+        "selector": "button.rr-header-nav__more",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 56,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "compact-variant__trigger"
+        ],
+        "class_str": "compact-variant__trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]",
+        "css": "button.compact-variant__trigger",
+        "rect": {
+          "x": 1120,
+          "y": 10,
+          "width": 44,
+          "height": 44,
+          "top": 10,
+          "right": 1164,
+          "bottom": 54,
+          "left": 1120
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-d7ef265f": "",
+          "class": "compact-variant__trigger",
+          "type": "button"
+        },
+        "selector": "button.compact-variant__trigger",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 62,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "avatar",
+          "avatar_xs",
+          "avatar_circle",
+          "avatar_border"
+        ],
+        "class_str": "avatar avatar_xs avatar_circle avatar_border",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[2]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 1192,
+          "y": 12,
+          "width": 40,
+          "height": 40,
+          "top": 12,
+          "right": 1232,
+          "bottom": 52,
+          "left": 1192
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-84d34c7c": "",
+          "data-v-2132431f-s": "",
+          "class": "avatar avatar_xs avatar_circle avatar_border",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 72,
+        "tag": "button",
+        "text": "XM",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 115,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 155,
+          "bottom": 1377.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 75,
+        "tag": "button",
+        "text": "RX",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 115,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 155,
+          "bottom": 1450.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 78,
+        "tag": "button",
+        "text": "OT",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 115,
+          "y": 1479.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1479.5625,
+          "right": 155,
+          "bottom": 1519.5625,
+          "left": 115
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 85,
+        "tag": "button",
+        "text": "ВГ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 521.65625,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 561.65625,
+          "bottom": 1377.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 88,
+        "tag": "button",
+        "text": "ЕЛ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 521.65625,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 561.65625,
+          "bottom": 1450.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 91,
+        "tag": "button",
+        "text": "АЯ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 521.65625,
+          "y": 1483.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1483.5625,
+          "right": 561.65625,
+          "bottom": 1523.5625,
+          "left": 521.65625
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 98,
+        "tag": "button",
+        "text": "ДМ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 928.3125,
+          "y": 1337.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1337.5625,
+          "right": 968.3125,
+          "bottom": 1377.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 101,
+        "tag": "button",
+        "text": "МВ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 928.3125,
+          "y": 1410.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1410.5625,
+          "right": 968.3125,
+          "bottom": 1450.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 104,
+        "tag": "button",
+        "text": "МГ",
+        "classes": [
+          "avatar",
+          "avatar_sm",
+          "avatar_circle"
+        ],
+        "class_str": "avatar avatar_sm avatar_circle",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/button[1]",
+        "css": "button.avatar",
+        "rect": {
+          "x": 928.3125,
+          "y": 1483.5625,
+          "width": 40,
+          "height": 40,
+          "top": 1483.5625,
+          "right": 968.3125,
+          "bottom": 1523.5625,
+          "left": 928.3125
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-56d6d97b": "",
+          "data-v-13344299": "",
+          "class": "avatar avatar_sm avatar_circle",
+          "type": "button"
+        },
+        "selector": "button.avatar",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 116,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "swiper-navigation",
+          "for-organization__controls",
+          "for-organization__prev"
+        ],
+        "class_str": "swiper-navigation for-organization__controls for-organization__prev",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[1]/div[1]/button[1]",
+        "css": "button.swiper-navigation",
+        "rect": {
+          "x": 20,
+          "y": 3370.890625,
+          "width": 46,
+          "height": 46,
+          "top": 3370.890625,
+          "right": 66,
+          "bottom": 3416.890625,
+          "left": 20
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-f2758014": "",
+          "data-v-71697397": "",
+          "class": "swiper-navigation for-organization__controls for-organization__prev"
+        },
+        "selector": "button.swiper-navigation",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 117,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "swiper-navigation",
+          "for-organization__controls",
+          "for-organization__next"
+        ],
+        "class_str": "swiper-navigation for-organization__controls for-organization__next",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[1]/div[1]/button[2]",
+        "css": "button.swiper-navigation",
+        "rect": {
+          "x": 1214,
+          "y": 3370.890625,
+          "width": 46,
+          "height": 46,
+          "top": 3370.890625,
+          "right": 1260,
+          "bottom": 3416.890625,
+          "left": 1214
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-f2758014": "",
+          "data-v-71697397": "",
+          "class": "swiper-navigation for-organization__controls for-organization__next"
+        },
+        "selector": "button.swiper-navigation",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 118,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "swiper-pagination-custom__item-trigger",
+          "swiper-pagination-custom__item-trigger_active"
+        ],
+        "class_str": "swiper-pagination-custom__item-trigger swiper-pagination-custom__item-trigger_active",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[1]/div[1]/ul[1]/li[1]/button[1]",
+        "css": "button.swiper-pagination-custom__item-trigger",
+        "rect": {
+          "x": 620,
+          "y": 3677.890625,
+          "width": 8,
+          "height": 8,
+          "top": 3677.890625,
+          "right": 628,
+          "bottom": 3685.890625,
+          "left": 620
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-f8177efd": "",
+          "class": "swiper-pagination-custom__item-trigger swiper-pagination-custom__item-trigger_active"
+        },
+        "selector": "button.swiper-pagination-custom__item-trigger",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 119,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "swiper-pagination-custom__item-trigger"
+        ],
+        "class_str": "swiper-pagination-custom__item-trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[1]/div[1]/ul[1]/li[2]/button[1]",
+        "css": "button.swiper-pagination-custom__item-trigger",
+        "rect": {
+          "x": 636,
+          "y": 3677.890625,
+          "width": 8,
+          "height": 8,
+          "top": 3677.890625,
+          "right": 644,
+          "bottom": 3685.890625,
+          "left": 636
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-f8177efd": "",
+          "class": "swiper-pagination-custom__item-trigger"
+        },
+        "selector": "button.swiper-pagination-custom__item-trigger",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 120,
+        "tag": "button",
+        "text": "",
+        "classes": [
+          "swiper-pagination-custom__item-trigger"
+        ],
+        "class_str": "swiper-pagination-custom__item-trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[3]/div[1]/div[1]/ul[1]/li[3]/button[1]",
+        "css": "button.swiper-pagination-custom__item-trigger",
+        "rect": {
+          "x": 652,
+          "y": 3677.890625,
+          "width": 8,
+          "height": 8,
+          "top": 3677.890625,
+          "right": 660,
+          "bottom": 3685.890625,
+          "left": 652
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-f8177efd": "",
+          "class": "swiper-pagination-custom__item-trigger"
+        },
+        "selector": "button.swiper-pagination-custom__item-trigger",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 141,
+        "tag": "button",
+        "text": "Ошибка на сайте",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[4]/ul[1]/li[2]/button[1]",
+        "css": "button.text-small-semibold",
+        "rect": {
+          "x": 984,
+          "y": 4295.890625,
+          "width": 129,
+          "height": 22,
+          "top": 4295.890625,
+          "right": 1113,
+          "bottom": 4317.890625,
+          "left": 984
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover"
+        },
+        "selector": "button.text-small-semibold",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 142,
+        "tag": "button",
+        "text": "Оценить сайт",
+        "classes": [
+          "text-small-semibold",
+          "footer__section-link",
+          "hover"
+        ],
+        "class_str": "text-small-semibold footer__section-link hover",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[1]/ul[1]/li[4]/ul[1]/li[3]/button[1]",
+        "css": "button.text-small-semibold",
+        "rect": {
+          "x": 984,
+          "y": 4325.890625,
+          "width": 103,
+          "height": 22,
+          "top": 4325.890625,
+          "right": 1087,
+          "bottom": 4347.890625,
+          "left": 984
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-2132431f": "",
+          "data-v-c6717424": "",
+          "class": "text-small-semibold footer__section-link hover"
+        },
+        "selector": "button.text-small-semibold",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 148,
+        "tag": "button",
+        "text": "Отзыв о сайте",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_clear",
+          "button_sm"
+        ],
+        "class_str": "button button_mobile button_clear button_sm",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/div[1]/button[1]",
+        "css": "button.button",
+        "rect": {
+          "x": 810,
+          "y": 4675.890625,
+          "width": 131,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 941,
+          "bottom": 4707.890625,
+          "left": 810
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-c6717424": "",
+          "class": "button button_mobile button_clear button_sm",
+          "style": "--border-type: solid;"
+        },
+        "selector": "button.button",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 153,
+        "tag": "button",
+        "text": "Русский",
+        "classes": [
+          "full-variant__trigger"
+        ],
+        "class_str": "full-variant__trigger",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "button",
+        "placeholder": null,
+        "href": null,
+        "xpath": "//*[@id='app']/div[1]/div[2]/footer[1]/div[1]/div[5]/div[2]/div[2]/div[1]/div[1]/button[1]",
+        "css": "button.full-variant__trigger",
+        "rect": {
+          "x": 1133,
+          "y": 4675.890625,
+          "width": 117,
+          "height": 32,
+          "top": 4675.890625,
+          "right": 1250,
+          "bottom": 4707.890625,
+          "left": 1133
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-afeab263": "",
+          "class": "full-variant__trigger",
+          "type": "button"
+        },
+        "selector": "button.full-variant__trigger",
+        "category": "buttons",
+        "subcategory": "secondary",
+        "confidence": 0.95
+      },
+      {
+        "index": 158,
+        "tag": "button",
+        "text": "Понятно",
+        "classes": [
+          "button",
+          "button_mobile",
+          "button_primary",
+          "button_md",
+          "cookie-gdpr__action",
+          "cookie-gdpr__action_continue"
+        ],
+        "class_str": "button button_mobile button_primary button_md cookie-gdpr__action cookie-gdpr__action_continue",
+        "id_attr": null,
+        "name": null,
+        "role": "",
+        "type": "submit",
+        "placeholder": null,
+        "href": null,
+        "xpath": "body/div[3]/div[1]/div[2]/button[1]",
+        "css": "button.button",
+        "rect": {
+          "x": 1149,
+          "y": 630,
+          "width": 107,
+          "height": 40,
+          "top": 630,
+          "right": 1256,
+          "bottom": 670,
+          "left": 1149
+        },
+        "visible": true,
+        "attributes": {
+          "data-v-b7261284": "",
+          "data-v-148f026f": "",
+          "class": "button button_mobile button_primary button_md cookie-gdpr__action cookie-gdpr__action_continue",
+          "style": "--border-type: solid;"
+        },
+        "selector": "button.button",
+        "category": "buttons",
+        "subcategory": "primary",
+        "confidence": 0.95
+      }
+    ]
+  },
+  "top_elements": [
+    {
+      "index": 42,
+      "tag": "a",
+      "text": "",
+      "classes": [
+        "logo__link",
+        "logo__link_circle"
+      ],
+      "class_str": "logo__link logo__link_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[2]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 40,
+        "y": 0,
+        "width": 104,
+        "height": 104,
+        "top": 0,
+        "right": 144,
+        "bottom": 104,
+        "left": 40
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-d55a7043": "",
+        "href": "/",
+        "class": "logo__link logo__link_circle"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 43,
+      "tag": "nav",
+      "text": "События\nРезультаты\nЧемпионаты\nФото\nКлубы\nЭкспо\nОтели\nЖурнал\nЕщё",
+      "classes": [
+        "rr-header-nav",
+        "rr-header__col",
+        "rr-header__col_nav"
+      ],
+      "class_str": "rr-header-nav rr-header__col rr-header__col_nav",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]",
+      "css": "nav",
+      "rect": {
+        "x": 172,
+        "y": 16,
+        "width": 783,
+        "height": 32,
+        "top": 16,
+        "right": 955,
+        "bottom": 48,
+        "left": 172
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-4842534f": "",
+        "data-v-bbd62688": "",
+        "class": "rr-header-nav rr-header__col rr-header__col_nav"
+      },
+      "selector": "nav",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 44,
+      "tag": "a",
+      "text": "События",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/events/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 172,
+        "y": 16,
+        "width": 75,
+        "height": 32,
+        "top": 16,
+        "right": 247,
+        "bottom": 48,
+        "left": 172
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "/events/"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 45,
+      "tag": "a",
+      "text": "Результаты",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[2]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 267,
+        "y": 16,
+        "width": 96,
+        "height": 32,
+        "top": 16,
+        "right": 363,
+        "bottom": 48,
+        "left": 267
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "https://results.russiarunning.com"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 46,
+      "tag": "a",
+      "text": "Чемпионаты",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://champs.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[3]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 383,
+        "y": 16,
+        "width": 109,
+        "height": 32,
+        "top": 16,
+        "right": 492,
+        "bottom": 48,
+        "left": 383
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "https://champs.russiarunning.com"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 47,
+      "tag": "a",
+      "text": "Фото",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://mysport.photo/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[4]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 512,
+        "y": 16,
+        "width": 43,
+        "height": 32,
+        "top": 16,
+        "right": 555,
+        "bottom": 48,
+        "left": 512
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "https://mysport.photo"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 48,
+      "tag": "a",
+      "text": "Клубы",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://clubs.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[5]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 575,
+        "y": 16,
+        "width": 55,
+        "height": 32,
+        "top": 16,
+        "right": 630,
+        "bottom": 48,
+        "left": 575
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "https://clubs.russiarunning.com"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 49,
+      "tag": "a",
+      "text": "Экспо",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://rrexpo.scount.pro/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[6]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 650,
+        "y": 16,
+        "width": 51,
+        "height": 32,
+        "top": 16,
+        "right": 701,
+        "bottom": 48,
+        "left": 650
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "target": "_blank",
+        "href": "https://rrexpo.scount.pro/"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 50,
+      "tag": "a",
+      "text": "Отели",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/ostrovok?erid=2W5zFGDoorY",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[7]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 721,
+        "y": 16,
+        "width": 53,
+        "height": 32,
+        "top": 16,
+        "right": 774,
+        "bottom": 48,
+        "left": 721
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "target": "_blank",
+        "href": "/ostrovok?erid=2W5zFGDoorY"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 51,
+      "tag": "a",
+      "text": "Журнал",
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "class_str": "rr-header-nav__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://life.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[8]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 794,
+        "y": 16,
+        "width": 68,
+        "height": 32,
+        "top": 16,
+        "right": 862,
+        "bottom": 48,
+        "left": 794
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-4842534f": "",
+        "class": "rr-header-nav__link",
+        "href": "https://life.russiarunning.com",
+        "target": "_blank"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 52,
+      "tag": "div",
+      "text": "Ещё",
+      "classes": [
+        "dropdown-popup__trigger"
+      ],
+      "class_str": "dropdown-popup__trigger",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[9]/div[1]/div[1]",
+      "css": "div",
+      "rect": {
+        "x": 882,
+        "y": 20,
+        "width": 56,
+        "height": 24,
+        "top": 20,
+        "right": 938,
+        "bottom": 44,
+        "left": 882
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-e6c8e5c0": "",
+        "class": "dropdown-popup__trigger",
+        "data-testid": "popup-trigger"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 53,
+      "tag": "button",
+      "text": "Ещё",
+      "classes": [
+        "rr-header-nav__more"
+      ],
+      "class_str": "rr-header-nav__more",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/nav[1]/div[1]/div[9]/div[1]/div[1]/button[1]",
+      "css": "button.rr-header-nav__more",
+      "rect": {
+        "x": 882,
+        "y": 20,
+        "width": 56,
+        "height": 24,
+        "top": 20,
+        "right": 938,
+        "bottom": 44,
+        "left": 882
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-4842534f": "",
+        "type": "button",
+        "class": "rr-header-nav__more"
+      },
+      "selector": "button.rr-header-nav__more",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 55,
+      "tag": "div",
+      "text": "",
+      "classes": [
+        "dropdown-popup__trigger"
+      ],
+      "class_str": "dropdown-popup__trigger",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+      "css": "div",
+      "rect": {
+        "x": 1120,
+        "y": 10,
+        "width": 44,
+        "height": 44,
+        "top": 10,
+        "right": 1164,
+        "bottom": 54,
+        "left": 1120
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-e6c8e5c0": "",
+        "class": "dropdown-popup__trigger",
+        "data-testid": "popup-trigger"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 56,
+      "tag": "button",
+      "text": "",
+      "classes": [
+        "compact-variant__trigger"
+      ],
+      "class_str": "compact-variant__trigger",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[1]/div[1]/div[1]/button[1]",
+      "css": "button.compact-variant__trigger",
+      "rect": {
+        "x": 1120,
+        "y": 10,
+        "width": 44,
+        "height": 44,
+        "top": 10,
+        "right": 1164,
+        "bottom": 54,
+        "left": 1120
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-d7ef265f": "",
+        "class": "compact-variant__trigger",
+        "type": "button"
+      },
+      "selector": "button.compact-variant__trigger",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 61,
+      "tag": "a",
+      "text": "",
+      "classes": [
+        "link",
+        "link_md",
+        "link_primary",
+        "rr-header-profile__not-auth"
+      ],
+      "class_str": "link link_md link_primary rr-header-profile__not-auth",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://russiarunning.com/login",
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[2]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 1182,
+        "y": 2,
+        "width": 60,
+        "height": 60,
+        "top": 2,
+        "right": 1242,
+        "bottom": 62,
+        "left": 1182
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-84d34c7c": "",
+        "class": "link link_md link_primary rr-header-profile__not-auth",
+        "href": "https://russiarunning.com/login"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 62,
+      "tag": "button",
+      "text": "",
+      "classes": [
+        "avatar",
+        "avatar_xs",
+        "avatar_circle",
+        "avatar_border"
+      ],
+      "class_str": "avatar avatar_xs avatar_circle avatar_border",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/header[1]/div[1]/div[3]/div[2]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 1192,
+        "y": 12,
+        "width": 40,
+        "height": 40,
+        "top": 12,
+        "right": 1232,
+        "bottom": 52,
+        "left": 1192
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-84d34c7c": "",
+        "data-v-2132431f-s": "",
+        "class": "avatar avatar_xs avatar_circle avatar_border",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 63,
+      "tag": "a",
+      "text": "Найти событие",
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_primary",
+        "button_lg",
+        "main-intro__action-link"
+      ],
+      "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[1]/a[1]",
+      "css": "a",
+      "rect": {
+        "x": 313,
+        "y": 424,
+        "width": 190,
+        "height": 48,
+        "top": 424,
+        "right": 503,
+        "bottom": 472,
+        "left": 313
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-b7261284": "",
+        "data-v-3511a5b0": "",
+        "class": "button button_mobile button_primary button_lg main-intro__action-link",
+        "style": "--border-type: solid;"
+      },
+      "selector": "a",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 64,
+      "tag": "a",
+      "text": "Найти результаты",
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_primary",
+        "button_lg",
+        "main-intro__action-link"
+      ],
+      "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[2]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 523,
+        "y": 424,
+        "width": 217,
+        "height": 48,
+        "top": 424,
+        "right": 740,
+        "bottom": 472,
+        "left": 523
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-b7261284": "",
+        "data-v-3511a5b0": "",
+        "class": "button button_mobile button_primary button_lg main-intro__action-link",
+        "href": "https://results.russiarunning.com",
+        "style": "--border-type: solid;"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 65,
+      "tag": "a",
+      "text": "Создать событие",
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_primary",
+        "button_lg",
+        "main-intro__action-link"
+      ],
+      "class_str": "button button_mobile button_primary button_lg main-intro__action-link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/section[1]/div[1]/div[1]/ul[1]/li[3]/a[1]",
+      "css": "a",
+      "rect": {
+        "x": 760,
+        "y": 424,
+        "width": 207,
+        "height": 48,
+        "top": 424,
+        "right": 967,
+        "bottom": 472,
+        "left": 760
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-b7261284": "",
+        "data-v-3511a5b0": "",
+        "class": "button button_mobile button_primary button_lg main-intro__action-link",
+        "style": "--border-type: solid;"
+      },
+      "selector": "a",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 66,
+      "tag": "a",
+      "text": "",
+      "classes": [
+        "banner__link"
+      ],
+      "class_str": "banner__link",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://mkt.russiarunning.com/api/v1/6ef7dbdf-8681-4cf1-b12c-71c6100ecaf0/3bf7d06b-b937-4228-800b-a0efbe35b166_desktop.lnk",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 40,
+        "y": 764,
+        "width": 1200,
+        "height": 228.5625,
+        "top": 764,
+        "right": 1240,
+        "bottom": 992.5625,
+        "left": 40
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-7e6558b7": "",
+        "href": "https://mkt.russiarunning.com/api/v1/6ef7dbdf-8681-4cf1-b12c-71c6100ecaf0/3bf7d06b-b937-4228-800b-a0efbe35b166_desktop.lnk",
+        "target": "_blank",
+        "rel": "noopener",
+        "class": "banner__link"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 67,
+      "tag": "a",
+      "text": "Silk Road – Andijon 2025",
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/event/SilkRoadAndijon2025?scrollToTop=1",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 63,
+        "y": 1141.5625,
+        "width": 223,
+        "height": 26,
+        "top": 1141.5625,
+        "right": 286,
+        "bottom": 1167.5625,
+        "left": 63
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-13344299": "",
+        "href": "/event/SilkRoadAndijon2025?scrollToTop=1",
+        "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 68,
+      "tag": "div",
+      "text": "21 км",
+      "classes": [
+        "multiselect",
+        "multiselect_md",
+        "multiselect_option-wrap"
+      ],
+      "class_str": "multiselect multiselect_md multiselect_option-wrap",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[2]",
+      "css": "div",
+      "rect": {
+        "x": 63,
+        "y": 1237.5625,
+        "width": 344.65625,
+        "height": 40,
+        "top": 1237.5625,
+        "right": 407.65625,
+        "bottom": 1277.5625,
+        "left": 63
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "tabindex": "0",
+        "class": "multiselect multiselect_md multiselect_option-wrap",
+        "role": "combobox",
+        "aria-owns": "listbox-null"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 69,
+      "tag": "div",
+      "text": "",
+      "classes": [
+        "multiselect__icon"
+      ],
+      "class_str": "multiselect__icon",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "css": "div",
+      "rect": {
+        "x": 76,
+        "y": 1248.5625,
+        "width": 18,
+        "height": 18,
+        "top": 1248.5625,
+        "right": 94,
+        "bottom": 1266.5625,
+        "left": 76
+      },
+      "visible": true,
+      "attributes": {
+        "class": "multiselect__icon",
+        "data-testid": "icon-left"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 71,
+      "tag": "a",
+      "text": "XM",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 115,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 155,
+        "bottom": 1377.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 72,
+      "tag": "button",
+      "text": "XM",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 115,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 155,
+        "bottom": 1377.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 73,
+      "tag": "a",
+      "text": "Xasan Mirsoatov",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 167,
+        "y": 1339.5625,
+        "width": 120,
+        "height": 18,
+        "top": 1339.5625,
+        "right": 287,
+        "bottom": 1357.5625,
+        "left": 167
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/5bcf9824-ecdd-4b25-8bb3-710d28198193",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 74,
+      "tag": "a",
+      "text": "RX",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 115,
+        "y": 1410.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1410.5625,
+        "right": 155,
+        "bottom": 1450.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 75,
+      "tag": "button",
+      "text": "RX",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 115,
+        "y": 1410.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1410.5625,
+        "right": 155,
+        "bottom": 1450.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 76,
+      "tag": "a",
+      "text": "Ruslan Xajiev",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 167,
+        "y": 1412.5625,
+        "width": 98,
+        "height": 18,
+        "top": 1412.5625,
+        "right": 265,
+        "bottom": 1430.5625,
+        "left": 167
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/2b23eacb-3dc6-4ef8-ac24-15f47899fd57",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 77,
+      "tag": "a",
+      "text": "OT",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 115,
+        "y": 1479.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1479.5625,
+        "right": 155,
+        "bottom": 1519.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 78,
+      "tag": "button",
+      "text": "OT",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 115,
+        "y": 1479.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1479.5625,
+        "right": 155,
+        "bottom": 1519.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 79,
+      "tag": "a",
+      "text": "Otabek Toshquvvatov",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 115,
+        "y": 1533.5625,
+        "width": 160,
+        "height": 18,
+        "top": 1533.5625,
+        "right": 275,
+        "bottom": 1551.5625,
+        "left": 115
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/SilkRoadAndijon2025/21km/15d37e5b-cefa-45bc-aaba-b6dc099fc14f",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 80,
+      "tag": "a",
+      "text": "XVI ГАТЧИНСКИЙ ПОЛУМАРАФОН",
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/event/GatchinaHalfMarathon2025?scrollToTop=1",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 469.65625,
+        "y": 1141.5625,
+        "width": 334,
+        "height": 26,
+        "top": 1141.5625,
+        "right": 803.65625,
+        "bottom": 1167.5625,
+        "left": 469.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-13344299": "",
+        "href": "/event/GatchinaHalfMarathon2025?scrollToTop=1",
+        "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 81,
+      "tag": "div",
+      "text": "21.1 км",
+      "classes": [
+        "multiselect",
+        "multiselect_md",
+        "multiselect_option-wrap"
+      ],
+      "class_str": "multiselect multiselect_md multiselect_option-wrap",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[2]",
+      "css": "div",
+      "rect": {
+        "x": 469.65625,
+        "y": 1237.5625,
+        "width": 344.65625,
+        "height": 40,
+        "top": 1237.5625,
+        "right": 814.3125,
+        "bottom": 1277.5625,
+        "left": 469.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "tabindex": "0",
+        "class": "multiselect multiselect_md multiselect_option-wrap",
+        "role": "combobox",
+        "aria-owns": "listbox-null"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 82,
+      "tag": "div",
+      "text": "",
+      "classes": [
+        "multiselect__icon"
+      ],
+      "class_str": "multiselect__icon",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "css": "div",
+      "rect": {
+        "x": 482.65625,
+        "y": 1248.5625,
+        "width": 18,
+        "height": 18,
+        "top": 1248.5625,
+        "right": 500.65625,
+        "bottom": 1266.5625,
+        "left": 482.65625
+      },
+      "visible": true,
+      "attributes": {
+        "class": "multiselect__icon",
+        "data-testid": "icon-left"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 84,
+      "tag": "a",
+      "text": "ВГ",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 521.65625,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 561.65625,
+        "bottom": 1377.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 85,
+      "tag": "button",
+      "text": "ВГ",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 521.65625,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 561.65625,
+        "bottom": 1377.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 86,
+      "tag": "a",
+      "text": "Виктор Гуржий",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 573.65625,
+        "y": 1339.5625,
+        "width": 116,
+        "height": 18,
+        "top": 1339.5625,
+        "right": 689.65625,
+        "bottom": 1357.5625,
+        "left": 573.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/56f2f0e3-a58f-4d00-92a7-247b996ad6ed",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 87,
+      "tag": "a",
+      "text": "ЕЛ",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 521.65625,
+        "y": 1410.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1410.5625,
+        "right": 561.65625,
+        "bottom": 1450.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 88,
+      "tag": "button",
+      "text": "ЕЛ",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 521.65625,
+        "y": 1410.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1410.5625,
+        "right": 561.65625,
+        "bottom": 1450.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 89,
+      "tag": "a",
+      "text": "Егор Лимонов",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 573.65625,
+        "y": 1412.5625,
+        "width": 108,
+        "height": 18,
+        "top": 1412.5625,
+        "right": 681.65625,
+        "bottom": 1430.5625,
+        "left": 573.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/06a6216f-056f-477a-948a-f5481976c7df",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 90,
+      "tag": "a",
+      "text": "АЯ",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 521.65625,
+        "y": 1483.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1483.5625,
+        "right": 561.65625,
+        "bottom": 1523.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 91,
+      "tag": "button",
+      "text": "АЯ",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 521.65625,
+        "y": 1483.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1483.5625,
+        "right": 561.65625,
+        "bottom": 1523.5625,
+        "left": 521.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 92,
+      "tag": "a",
+      "text": "Андрей Янович",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 573.65625,
+        "y": 1485.5625,
+        "width": 121,
+        "height": 18,
+        "top": 1485.5625,
+        "right": 694.65625,
+        "bottom": 1503.5625,
+        "left": 573.65625
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/GatchinaHalfMarathon2025/21km/b0e67c41-8f1b-46da-a3a1-ec7c0578d4eb",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 93,
+      "tag": "a",
+      "text": "Корпоративный забег \"Энергия жизни\" Самара 2025",
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "class_str": "link link_lg link_primary leader-card__title mb-0-25 d-block",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://reg.russiarunning.com/event/KorporativnyyzabegEnergiyazhizniSamara2025?scrollToTop=1",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 876.3125,
+        "y": 1141.5625,
+        "width": 344.65625,
+        "height": 52,
+        "top": 1141.5625,
+        "right": 1220.96875,
+        "bottom": 1193.5625,
+        "left": 876.3125
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-2132431f": "",
+        "data-v-13344299": "",
+        "href": "/event/KorporativnyyzabegEnergiyazhizniSamara2025?scrollToTop=1",
+        "class": "link link_lg link_primary leader-card__title mb-0-25 d-block"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 94,
+      "tag": "div",
+      "text": "10 км ( только мужчины)",
+      "classes": [
+        "multiselect",
+        "multiselect_md",
+        "multiselect_option-wrap"
+      ],
+      "class_str": "multiselect multiselect_md multiselect_option-wrap",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[2]",
+      "css": "div",
+      "rect": {
+        "x": 876.3125,
+        "y": 1237.5625,
+        "width": 344.65625,
+        "height": 40,
+        "top": 1237.5625,
+        "right": 1220.96875,
+        "bottom": 1277.5625,
+        "left": 876.3125
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "tabindex": "0",
+        "class": "multiselect multiselect_md multiselect_option-wrap",
+        "role": "combobox",
+        "aria-owns": "listbox-null"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 95,
+      "tag": "div",
+      "text": "",
+      "classes": [
+        "multiselect__icon"
+      ],
+      "class_str": "multiselect__icon",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+      "css": "div",
+      "rect": {
+        "x": 889.3125,
+        "y": 1248.5625,
+        "width": 18,
+        "height": 18,
+        "top": 1248.5625,
+        "right": 907.3125,
+        "bottom": 1266.5625,
+        "left": 889.3125
+      },
+      "visible": true,
+      "attributes": {
+        "class": "multiselect__icon",
+        "data-testid": "icon-left"
+      },
+      "selector": "div",
+      "category": "containers",
+      "subcategory": "generic",
+      "confidence": 0.5
+    },
+    {
+      "index": 97,
+      "tag": "a",
+      "text": "ДМ",
+      "classes": [],
+      "class_str": "",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 928.3125,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 968.3125,
+        "bottom": 1377.5625,
+        "left": 928.3125
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    },
+    {
+      "index": 98,
+      "tag": "button",
+      "text": "ДМ",
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "class_str": "avatar avatar_sm avatar_circle",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": "button",
+      "placeholder": null,
+      "href": null,
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/a[1]/button[1]",
+      "css": "button.avatar",
+      "rect": {
+        "x": 928.3125,
+        "y": 1337.5625,
+        "width": 40,
+        "height": 40,
+        "top": 1337.5625,
+        "right": 968.3125,
+        "bottom": 1377.5625,
+        "left": 928.3125
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-56d6d97b": "",
+        "data-v-13344299": "",
+        "class": "avatar avatar_sm avatar_circle",
+        "type": "button"
+      },
+      "selector": "button.avatar",
+      "category": "buttons",
+      "subcategory": "secondary",
+      "confidence": 0.95
+    },
+    {
+      "index": 99,
+      "tag": "a",
+      "text": "Денис Маматов",
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "class_str": "text-small-semibold mb-0-25",
+      "id_attr": null,
+      "name": null,
+      "role": "",
+      "type": null,
+      "placeholder": null,
+      "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+      "xpath": "//*[@id='app']/div[1]/div[2]/main[1]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/a[1]",
+      "css": "a[href]",
+      "rect": {
+        "x": 980.3125,
+        "y": 1339.5625,
+        "width": 117,
+        "height": 18,
+        "top": 1339.5625,
+        "right": 1097.3125,
+        "bottom": 1357.5625,
+        "left": 980.3125
+      },
+      "visible": true,
+      "attributes": {
+        "data-v-13344299": "",
+        "target": "_blank",
+        "href": "https://results.russiarunning.com/participant/KorporativnyyzabegEnergiyazhizniSamara2025/10km_man/6ed69c7e-fa6e-4bb7-873b-13f16ded77e1",
+        "class": "text-small-semibold mb-0-25"
+      },
+      "selector": "a[href]",
+      "category": "navigation",
+      "subcategory": "link",
+      "confidence": 0.92
+    }
+  ]
+}
