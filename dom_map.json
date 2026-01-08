@@ -1,0 +1,1850 @@
+{
+  "url": "https://reg.russiarunning.com",
+  "timestamp": "2026-01-01T22:38:10.732705",
+  "total_elements": 118,
+  "visible_elements": 84,
+  "elements": [
+    {
+      "index": 0,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_clear",
+        "button_md",
+        "button_square",
+        "rr-header__toggle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/button[1]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 1,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header__mobile-logo"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/a[2]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 2,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_clear",
+        "button_lg",
+        "button_square"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[3]/button[1]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 3,
+      "tag": "a",
+      "text": "События",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 4,
+      "tag": "a",
+      "text": "Предстоящие",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "navigation-item__subitem"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/div[2]/a[2]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 5,
+      "tag": "a",
+      "text": "Серии",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "navigation-item__subitem"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/div[2]/a[3]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 6,
+      "tag": "a",
+      "text": "Виртуальные",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "navigation-item__subitem"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/div[2]/a[4]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 7,
+      "tag": "a",
+      "text": "Прошедшие",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "navigation-item__subitem"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[3]/div[2]/a[5]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 8,
+      "tag": "a",
+      "text": "Результаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[6]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 9,
+      "tag": "a",
+      "text": "Чемпионаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[9]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 10,
+      "tag": "a",
+      "text": "Фото",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[12]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 11,
+      "tag": "a",
+      "text": "Клубы",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[15]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 12,
+      "tag": "a",
+      "text": "Экспо",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[18]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 13,
+      "tag": "a",
+      "text": "Отели",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[21]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 14,
+      "tag": "a",
+      "text": "Журнал",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[24]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 15,
+      "tag": "a",
+      "text": "Организаторам",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[27]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 16,
+      "tag": "a",
+      "text": "Личный кабинет",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[33]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 17,
+      "tag": "a",
+      "text": "Центр поддержки",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[39]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 18,
+      "tag": "a",
+      "text": "О платформе",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[42]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 19,
+      "tag": "button",
+      "text": "Сообщить об ошибке",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_with-icon",
+        "link_md",
+        "link_primary",
+        "text-medium-semibold",
+        "navigation-item__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[45]/button[1]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 20,
+      "tag": "button",
+      "text": "Русский",
+      "id": null,
+      "name": null,
+      "classes": [
+        "full-variant__trigger"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[49]/div[1]/div[1]/div[1]/button[3]",
+      "visible": false,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 21,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[49]/div[1]/div[1]/div[3]/ul[2]/li[2]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 22,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div[49]/div[1]/div[1]/div[3]/ul[2]/li[3]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 23,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "logo__link",
+        "logo__link_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 24,
+      "tag": "a",
+      "text": "События",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 25,
+      "tag": "a",
+      "text": "Результаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 26,
+      "tag": "a",
+      "text": "Чемпионаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 27,
+      "tag": "a",
+      "text": "Фото",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[5]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 28,
+      "tag": "a",
+      "text": "Клубы",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[6]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 29,
+      "tag": "a",
+      "text": "Экспо",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[7]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 30,
+      "tag": "a",
+      "text": "Отели",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[8]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 31,
+      "tag": "a",
+      "text": "Журнал",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[9]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 32,
+      "tag": "button",
+      "text": "Ещё",
+      "id": null,
+      "name": null,
+      "classes": [
+        "rr-header-nav__more"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[11]/div[1]/div[1]/button[2]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 33,
+      "tag": "a",
+      "text": "Организаторам",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-medium-semibold",
+        "dropdown-static__item-link",
+        "dropdown-static__item-link_links"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/nav[3]/div[1]/div[11]/div[1]/div[3]/ul[2]/li[4]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 34,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "compact-variant__trigger"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[4]/div[1]/div[1]/div[1]/button[3]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 35,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[4]/div[1]/div[1]/div[3]/ul[2]/li[2]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 36,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[4]/div[1]/div[1]/div[3]/ul[2]/li[3]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 37,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_md",
+        "link_primary",
+        "rr-header-profile__not-auth"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[4]/div[2]/div[1]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 38,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_xs",
+        "avatar_circle",
+        "avatar_border"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/header[1]/div[2]/div[4]/div[2]/div[1]/a[1]/button[3]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 39,
+      "tag": "a",
+      "text": "Найти результаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_primary",
+        "button_lg",
+        "main-intro__action-link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[1]/div[2]/div[1]/ul[3]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 40,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "banner__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 41,
+      "tag": "a",
+      "text": "Колпинский кросс 2025",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/div[1]/div[1]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 42,
+      "tag": "a",
+      "text": "АК",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 43,
+      "tag": "button",
+      "text": "АК",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 44,
+      "tag": "a",
+      "text": "Андрей Карпин",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[2]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 45,
+      "tag": "a",
+      "text": "СШ",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 46,
+      "tag": "button",
+      "text": "СШ",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 47,
+      "tag": "a",
+      "text": "Сергей Шарапов",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[3]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 48,
+      "tag": "a",
+      "text": "РЗ",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 49,
+      "tag": "button",
+      "text": "РЗ",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 50,
+      "tag": "a",
+      "text": "Родион Зигангиров",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/ul[2]/li[4]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 51,
+      "tag": "a",
+      "text": "Триатлон на Кубок Губернатора Санкт-Петербурга на дистанцию \"суперспринт\", 5 этап",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/div[1]/div[1]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 52,
+      "tag": "a",
+      "text": "АП",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 53,
+      "tag": "button",
+      "text": "АП",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 54,
+      "tag": "a",
+      "text": "Андрей Плотников",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[2]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 55,
+      "tag": "a",
+      "text": "ДК",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 56,
+      "tag": "button",
+      "text": "ДК",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 57,
+      "tag": "a",
+      "text": "Дмитрий Колесов",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[3]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 58,
+      "tag": "a",
+      "text": "ЯС",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 59,
+      "tag": "button",
+      "text": "ЯС",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 60,
+      "tag": "a",
+      "text": "Ярослав Строганов",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/ul[2]/li[4]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 61,
+      "tag": "a",
+      "text": "Первоуральск Опен 2025 (Осень)",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_lg",
+        "link_primary",
+        "leader-card__title",
+        "mb-0-25",
+        "d-block"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/div[1]/div[1]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 62,
+      "tag": "a",
+      "text": "АР",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 63,
+      "tag": "button",
+      "text": "АР",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[2]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 64,
+      "tag": "a",
+      "text": "Алексей Ромашов",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[2]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 65,
+      "tag": "a",
+      "text": "МК",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 66,
+      "tag": "button",
+      "text": "МК",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[3]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 67,
+      "tag": "a",
+      "text": "Максим Клещевников",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[3]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 68,
+      "tag": "a",
+      "text": "ЮЗ",
+      "id": null,
+      "name": null,
+      "classes": [],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 69,
+      "tag": "button",
+      "text": "ЮЗ",
+      "id": null,
+      "name": null,
+      "classes": [
+        "avatar",
+        "avatar_sm",
+        "avatar_circle"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[4]/div[2]/a[1]/button[1]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 70,
+      "tag": "a",
+      "text": "Юрий Земзюлин",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "mb-0-25"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/ul[2]/li[4]/div[2]/div[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 71,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "slider-control",
+        "slider-list__control",
+        "slider-list__control_left"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/button[2]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 72,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "slider-control",
+        "slider-list__control",
+        "slider-list__control_right"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[3]/div[2]/button[3]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 73,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "event-card__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/div[1]/swiper-container[1]/swiper-slide[3]/div[1]/div[2]/a[3]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 74,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "event-card__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/div[1]/swiper-container[1]/swiper-slide[4]/div[1]/div[2]/a[3]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 75,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "event-card__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/div[1]/swiper-container[1]/swiper-slide[5]/div[1]/div[2]/a[3]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 76,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "event-card__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/div[1]/swiper-container[1]/swiper-slide[6]/div[1]/div[2]/a[3]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 77,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "slider-control",
+        "slider-list__control",
+        "slider-list__control_left"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/button[2]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 78,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "slider-control",
+        "slider-list__control",
+        "slider-list__control_right"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/div[5]/div[2]/button[3]",
+      "visible": false,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 79,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "our-events__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[7]/div[2]/a[2]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 80,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "swiper-navigation",
+        "for-organization__controls",
+        "for-organization__prev"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[8]/div[1]/div[3]/button[3]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 81,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "swiper-navigation",
+        "for-organization__controls",
+        "for-organization__next"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[8]/div[1]/div[3]/button[4]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 82,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "swiper-pagination-custom__item-trigger",
+        "swiper-pagination-custom__item-trigger_active"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[8]/div[1]/div[3]/ul[5]/li[2]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 83,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "swiper-pagination-custom__item-trigger"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[8]/div[1]/div[3]/ul[5]/li[3]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 84,
+      "tag": "button",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "swiper-pagination-custom__item-trigger"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/main[2]/div[3]/section[8]/div[1]/div[3]/ul[5]/li[4]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 85,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_md",
+        "link_primary",
+        "footer__logo",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 86,
+      "tag": "a",
+      "text": "Платформа",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 87,
+      "tag": "a",
+      "text": "Оценка событий",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 88,
+      "tag": "a",
+      "text": "Журнал",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 89,
+      "tag": "a",
+      "text": "Реклама",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[5]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 90,
+      "tag": "a",
+      "text": "Вакансии",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[6]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 91,
+      "tag": "a",
+      "text": "Контакты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[2]/ul[2]/li[7]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 92,
+      "tag": "a",
+      "text": "Создать событие",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[3]/ul[2]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 93,
+      "tag": "a",
+      "text": "Возможности",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[3]/ul[2]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 94,
+      "tag": "a",
+      "text": "Услуги",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[3]/ul[2]/li[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 95,
+      "tag": "a",
+      "text": "Найти событие",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 96,
+      "tag": "a",
+      "text": "Результаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 97,
+      "tag": "a",
+      "text": "Чемпионаты",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 98,
+      "tag": "a",
+      "text": "Фото",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[5]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 99,
+      "tag": "a",
+      "text": "Клубы",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[6]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 100,
+      "tag": "a",
+      "text": "Экспо",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[7]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 101,
+      "tag": "a",
+      "text": "Отели",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[4]/ul[2]/li[8]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 102,
+      "tag": "a",
+      "text": "Центр поддержки",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[5]/ul[2]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 103,
+      "tag": "button",
+      "text": "Ошибка на сайте",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[5]/ul[2]/li[3]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 104,
+      "tag": "button",
+      "text": "Оценить сайт",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__section-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[5]/ul[2]/li[4]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 105,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_md",
+        "link_primary",
+        "mobile-app__link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[1]/ul[2]/li[7]/div[1]/a[2]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 106,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "link",
+        "link_md",
+        "link_primary",
+        "footer__mobile-logo"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[2]/a[1]",
+      "visible": false,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 107,
+      "tag": "a",
+      "text": "Конфиденциальность",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__middle-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[3]/ul[1]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 108,
+      "tag": "a",
+      "text": "Аккредитация в качестве ИТ-компании",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__middle-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[3]/ul[1]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 109,
+      "tag": "a",
+      "text": "Информация о деятельности компании в области ИТ",
+      "id": null,
+      "name": null,
+      "classes": [
+        "text-small-semibold",
+        "footer__middle-link",
+        "hover"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[3]/ul[1]/li[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 110,
+      "tag": "button",
+      "text": "Отзыв о сайте",
+      "id": null,
+      "name": null,
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_clear",
+        "button_sm"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/div[1]/button[1]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    },
+    {
+      "index": 111,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "footer__social-link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/ul[2]/li[2]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 112,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "footer__social-link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/ul[2]/li[3]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 113,
+      "tag": "a",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "footer__social-link"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/ul[2]/li[4]/a[1]",
+      "visible": true,
+      "type": null,
+      "placeholder": null
+    },
+    {
+      "index": 114,
+      "tag": "button",
+      "text": "Русский",
+      "id": null,
+      "name": null,
+      "classes": [
+        "full-variant__trigger"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/div[3]/div[1]/div[1]/button[3]",
+      "visible": true,
+      "type": "button",
+      "placeholder": null
+    },
+    {
+      "index": 115,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/div[3]/div[1]/div[3]/ul[2]/li[2]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 116,
+      "tag": "input",
+      "text": "",
+      "id": null,
+      "name": null,
+      "classes": [
+        "radio__input"
+      ],
+      "xpath": "//*[@id='app']/div[2]/div[2]/footer[3]/div[1]/div[5]/div[2]/div[3]/div[1]/div[3]/ul[2]/li[3]/div[1]/label[1]/input[1]",
+      "visible": false,
+      "type": "radio",
+      "placeholder": null
+    },
+    {
+      "index": 117,
+      "tag": "button",
+      "text": "Понятно",
+      "id": null,
+      "name": null,
+      "classes": [
+        "button",
+        "button_mobile",
+        "button_primary",
+        "button_md",
+        "cookie-gdpr__action",
+        "cookie-gdpr__action_continue"
+      ],
+      "xpath": "body/div[14]/div[1]/div[2]/button[2]",
+      "visible": true,
+      "type": "submit",
+      "placeholder": null
+    }
+  ]
+}
