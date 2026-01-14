@@ -1,2 +1,6 @@
+Тулза для быстрого сканирования DOM и составления ее map для последующего использования в 
+автоматизирванном тестировании UI 
+
 Запуск:
-python3 dom_mapper_cli.py https://example.com -o results.json
+
+python3 dom_mapper_cli.py -p
