@@ -81,64 +81,89 @@ class DOMMapper:
         return last
 
     async def _scan_page(self, page):
-        """Извлечение UI элементов (видимых)"""
-        return await page.evaluate(
-            """
-            () => {
-                const getXPath = (element) => {
-                    if (element.id) return `//*[@id='${element.id}']`;
-                    if (element === document.body) return element.tagName.toLowerCase();
-                    const parent = element.parentNode;
-                    const siblings = Array.from(parent.children).filter(e => e.tagName === element.tagName);
-                    const ix = siblings.indexOf(element) + 1;
-                    return getXPath(parent) + `/${element.tagName.toLowerCase()}[${ix}]`;
-                };
+        """Извлечение UI элементов - чистый Python с Playwright API"""
+        
+        combined_selector = ', '.join([
+            'button', 'input:not([type=hidden])', 'select', 'textarea',
+            'a[href]', '[role="button"]', '[role="link"]', '[onclick]',
+            'nav', 'header', 'footer', 'form', 'aside',
+            '.btn', '.button', '.card', '.sidebar', 'span'
+            '[data-testid]', '[data-cy]', '[data-test]',
+            '[tabindex]:not([tabindex="-1"])'
+        ])
+        
+        all_locators = await page.locator(combined_selector).all()
+        elements = []
+        
+        for idx, locator in enumerate(all_locators[:400]):
+            try:
+                is_visible = await locator.is_visible(timeout=100)
+                if not is_visible:
+                    continue
+                
+                el_data = await self._extract_element_data(locator, idx)
+                if el_data:
+                    elements.append(el_data)
+                    
+            except Exception as e:
+                # Можно добавить для отладки: print(f"⚠️ Ошибка элемента {idx}: {e}")
+                continue
+        
+        # Генерируем локаторы для всех собранных элементов
+        from utils import generate_smart_xpath, _base_css_css_strategy
+        
+        for el in elements:
+            try:
+                el["xpath"] = generate_smart_xpath(el)
+                el["css"] = _base_css_css_strategy(el)
+            except Exception as e:
+                # Fallback на случай ошибки
+                el["xpath"] = f"//{el.get('tag', 'div')}"
+                el["css"] = el.get('tag', 'div')
+        
+        print(f"✅ Найдено элементов: {len(elements)}")  # Для отладки
+        return elements
 
-                const ui_selectors = [
-                    'button', 'input:not([type=hidden])', 'select', 'textarea',
-                    'a[href]', '[role="button"]', '[role="link"]', '[onclick]',
-                    'nav', 'header', 'footer', 'form', 'aside',
-                    '.btn', '.button', '.card', '.sidebar',
-                    '[data-testid]', '[data-cy]', '[data-test]',
-                    '[tabindex]:not([tabindex="-1"])'
-                ].join(',');
 
-                const isVisible = (el) => {
-                    const r = el.getBoundingClientRect();
-                    return !!(el.offsetParent !== null && r.width > 0 && r.height > 0);
-                };
 
-                const toCss = (el) => {
-                    if (el.id) return `#${el.id}`;
-                    const cls = el.classList && el.classList.length ? el.classList[0] : null;
-                    if (cls) return `${el.tagName.toLowerCase()}.${cls}`;
-                    return el.tagName.toLowerCase();
-                };
-
-                return Array.from(document.querySelectorAll(ui_selectors))
-                    .map((el, idx) => ({
-                        index: idx,
-                        tag: el.tagName.toLowerCase(),
-                        text: (el.innerText || '').trim().slice(0, 120),
-                        classes: Array.from(el.classList || []),
-                        class_str: Array.from(el.classList || []).join(' '),
-                        id_attr: el.id || null,
-                        name: el.name || null,
-                        role: el.getAttribute('role') || null,
-                        type: el.type || null,
-                        placeholder: el.placeholder || null,
-                        href: el.href || null,
-                        xpath: getXPath(el),
-                        css: toCss(el),
-                        rect: el.getBoundingClientRect(),
-                        visible: isVisible(el),
-                        attributes: Object.fromEntries([...el.attributes].map(a => [a.name, a.value]))
-                    }))
-                    .filter(el => el.visible)
-                    .slice(0, 400);
+    async def _extract_element_data(self, locator, index: int) -> dict | None:
+        """Извлекает данные из одного элемента"""
+        try:
+            # Получаем тег
+            tag = await locator.evaluate('el => el.tagName.toLowerCase()')
+            
+            # Получаем текст
+            try:
+                text = (await locator.inner_text(timeout=100)).strip()[:120]
+            except:
+                text = ""
+            
+            # Получаем атрибуты
+            attributes = await locator.evaluate(
+                'el => Object.fromEntries([...el.attributes].map(a => [a.name, a.value]))'
+            )
+            
+            # Парсим классы
+            classes = attributes.get('class', '').split() if attributes.get('class') else []
+            
+            return {
+                'index': index,
+                'tag': tag,
+                'text': text,
+                'classes': [c for c in classes if c],  # Убираем пустые
+                'id_attr': attributes.get('id'),
+                'name': attributes.get('name'),
+                'role': attributes.get('role'),
+                'type': attributes.get('type'),
+                'placeholder': attributes.get('placeholder'),
+                'href': attributes.get('href'),
+                'attributes': attributes,
+                'visible': True
             }
-            """
-        )
+            
+        except Exception as e:
+            return None
+
 
     def scan_with_semantics(self):
         semantic_elements = []
@@ -171,44 +196,42 @@ class DOMMapper:
 
         return report
 
-    # -----------------------------
-    # Locator generation (css + text/nth)
-    # -----------------------------
 
     @staticmethod
     def _norm_text(s: str) -> str:
         s = (s or "").strip()
         return re.sub(r"\s+", " ", s)
 
-    def _css_plus_text_or_nth(self, base_css: str, el: dict, seen: defaultdict) -> str:
-        """
-        Формат:
-        - css=<base> >> text="..."  если текст нормальный
-        - css=<base> >> nth=<k>     иначе
-        """
-        text = self._norm_text(el.get("text", ""))
+    def _quote_for_pw(self, text: str) -> str:
+    # Playwright в доках обычно показывает двойные кавычки; json.dumps даст корректное экранирование
+    # вернёт строку вида: "Найти событие"
+        return json.dumps(text, ensure_ascii=False)
 
-        # если текст короткий и “смысловой” — добавляем text-фильтр
+    def _css_plus_text_or_nth(self, base_css: str, el: dict, seen: defaultdict) -> str:
+        text = self._norm_text(el.get("text", ""))
+        tag = el.get("tag") or "div"
+
+
         if 1 <= len(text) <= 40:
-            # json.dumps корректно экранирует кавычки/слэши
-            return f"css={base_css} >> text={json.dumps(text, ensure_ascii=False)}"
+            return f"{tag}:has-text({self._quote_for_pw(text)})"
 
         k = seen[base_css]
         seen[base_css] += 1
-        return f"css={base_css} >> nth={k}"
+        return f"{base_css} >> nth={k}"
+
 
     def _xpath_plus_text_or_nth(self, xpath: str, el: dict, seen: defaultdict) -> str:
         text = self._norm_text(el.get("text", ""))
 
-        # текст есть → привязываемся к тексту
+
         if 1 <= len(text) <= 40:
             return f"xpath={xpath} >> text={json.dumps(text, ensure_ascii=False)}"
 
-        # текста нет → nth внутри выборки по xpath
-        key = f"xpath={xpath}"
+
+        key = f"{xpath}"
         k = seen[key]
         seen[key] += 1
-        return f"xpath={xpath} >> nth={k}"
+        return f"{xpath} >> nth={k}"
 
     def generate_locator_classes(self, elements: list[dict], strategy: str) -> str:
         """
@@ -312,7 +335,7 @@ async def interactive_locator_generation(mapper: DOMMapper, report: dict):
     print("6. Все стратегии (4 файла)")
 
 
-    choice = input("Выбор (1-5) [1]: ").strip() or "1"
+    choice = input("Выбор (1-6) [1]: ").strip() or "1"
     choice_to_strategy = {"1": "css", "2": "xpath", "3": "text", "4": "id_tag"}
 
     elements = []
