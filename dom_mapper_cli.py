@@ -87,7 +87,7 @@ class DOMMapper:
             'button', 'input:not([type=hidden])', 'select', 'textarea',
             'a[href]', '[role="button"]', '[role="link"]', '[onclick]',
             'nav', 'header', 'footer', 'form', 'aside',
-            '.btn', '.button', '.card', '.sidebar', 'span'
+            '.btn', '.button', '.card', '.sidebar', 'span',
             '[data-testid]', '[data-cy]', '[data-test]',
             '[tabindex]:not([tabindex="-1"])'
         ])
@@ -135,7 +135,7 @@ class DOMMapper:
             # Получаем текст
             try:
                 text = (await locator.inner_text(timeout=100)).strip()[:120]
-            except:
+            except Exception:
                 text = ""
             
             # Получаем атрибуты
@@ -161,7 +161,7 @@ class DOMMapper:
                 'visible': True
             }
             
-        except Exception as e:
+        except Exception:
             return None
 
 
@@ -313,7 +313,11 @@ class DOMMapper:
             parts.append(str(classes[0]).replace("-", "_"))
 
         name = "_".join(parts)[:30] or f"element_{el.get('index', 0)}"
-        return name.upper()
+        # Sanitize: remove invalid chars, ensure valid Python identifier
+        name = re.sub(r'[^a-zA-Z0-9_а-яА-ЯёЁ]', '_', name)
+        if name and name[0].isdigit():
+            name = f"el_{name}"
+        return name.upper() or f"ELEMENT_{el.get('index', 0)}"
 
     def get_report(self) -> dict:
         return {
