@@ -11,6 +11,17 @@ __pycache__/
 # C extensions
 *.so
 
+locators.py
+locators_css.py
+locators_id_tag.py
+locators_text.py
+locators_xpath.py
+locators_xpath_text.py
+
+test_e2e_russiarunning.py
+test_dom_mapper.py
+ui_map.json
+
 # Distribution / packaging
 .Python
 build/

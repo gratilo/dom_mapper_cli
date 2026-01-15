@@ -76,11 +76,6 @@ def generate_smart_xpath(el: dict) -> str:
     # 10. Fallback
     return f"//{tag}"
 
-    #11. Span
-    span = el.get("span")
-    if span:
-        return f"//span[contains(text(),'{span}')]"
-
 
 def _base_css_css_strategy(el: dict) -> str:
     """CSS селектор"""
